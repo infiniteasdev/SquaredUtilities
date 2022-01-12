@@ -43,7 +43,7 @@ header
     justify-content:space-between;
     align-items: center;
     background: rgba(83, 83, 83, 0.02);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.05);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.16);
     border-radius: 20px;
     backdrop-filter: blur(10px);
     border: 1px solid rgba(255,255,255,0.30);
@@ -85,9 +85,9 @@ header ul li a.active
 {
     transform: translateX(-100px);
     max-width: 700px;
-    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.17);
     border-radius: 20px;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(13px);
     border: 1px solid rgba(255,255,255,0.30);
     border-top: 1px solid rgba(255,255,255,0.5);
     border-left: 1px solid rgba(255,255,255,0.5);
@@ -117,3 +117,5 @@ header ul li a.active
     text-decoration: none;
     box-shadow: 0 5px 10px rgba(0,0,0,0.1)
 }
+
+  
